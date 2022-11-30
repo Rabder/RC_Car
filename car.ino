@@ -1,12 +1,3 @@
-/*
-  Capitulo 20 de Arduino desde cero en Español.
-  Programa que utiliza el modulo controlador de motor L298N junto con vehiculo
-  tipo rover para realizar un circuito simple en forma de U.
-
-  Autor: bitwiseAr  
-
-*/
-
 #include <SoftwareSerial.h>
 
 SoftwareSerial BT(10, 11); 
